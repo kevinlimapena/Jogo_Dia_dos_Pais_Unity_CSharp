@@ -1,0 +1,3060 @@
+fileFormatVersion: 2
+guid: 6b21bad7af85e5a4bb56bd977fd45365
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rio de janeiro_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 178
+        width: 154
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2923b9aab9c8da43ab35275e9c9cf89
+      internalID: 925300986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 178
+        width: 154
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f90f69c2689f58438a23a8fd8bc757d
+      internalID: 438596610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 270
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc829aebe14065240b332a18aba027ec
+      internalID: 603070021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 265
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d8c6b3645db8458fa8a24d0729749
+      internalID: 427530914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 178
+        width: 170
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4039990fb9522a049aa12cead685baa5
+      internalID: -1395299793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 258
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368a15e672e8e124e809c7f886f7d694
+      internalID: -856251458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 269
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5323c1cddd7b4face5c44158dcb11
+      internalID: -750763614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 178
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8880784eca184da41b0dede6b1d90ac3
+      internalID: -1083304806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 270
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699cd0c3c3e8854fa43bfb512cc9a4c
+      internalID: -1093139222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 178
+        width: 222
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f20bf5fb537a34bb3bf82249d87049
+      internalID: -1207579183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c1aa0ca94428a4c9dfd1d7f2265019
+      internalID: -2139692388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 22
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e36420b5ccad74095fd436105de0a6
+      internalID: 820085065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 17
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae728cf1b07d6148a106da6688a8b19
+      internalID: 1810351215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_13
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 69
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f78adae76d91458228dadbc642ad2
+      internalID: -640500221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 69
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2232a84110bcd4993df4e49b1a6ae0
+      internalID: 1724383473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d33b9311cb0d94e9a7c24af9422966
+      internalID: -1234524011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 69
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f724867d302a1e46ad22d5eca5135f0
+      internalID: 2101431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_17
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 69
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72251315bee84a64296b3cca6312fd1f
+      internalID: -29513492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 69
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1fda7de1daa0d42b7ccd937ae702bd
+      internalID: 2093478138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd35f70ae30fec4d9f9712e995a9742
+      internalID: 2083499534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 69
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a89c935d6bf1c4caefa18d5386f0ac
+      internalID: 1948430585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_21
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c580dae2111f9468eb77eaaf5fd2d3
+      internalID: -1147291361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_22
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 69
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc0a31ae3cd0be449497d296ac8f068
+      internalID: -1348343398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_23
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 68
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a8b09917edde44a23b0051b5d6673
+      internalID: -1328615586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8be0952d05d4e4da729fc824ab056b
+      internalID: 65096028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 56
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79251900c9ffc2348822e4ab85c43852
+      internalID: 1461429183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 56
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d5ec5ea0fb754ba4233cc460367a1
+      internalID: 1269590307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 56
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796e9839b7271c458ff316170631245
+      internalID: 1200463644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_28
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 56
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ffd84d8cbc134f87dd5f5924c0191
+      internalID: 824258042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 56
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdf15584ccece540ac5ef523d663ff2
+      internalID: -684622001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_30
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 56
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e7e58633312084caca7757b62bcbcf
+      internalID: -224845343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_31
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991dfc665a2831947990345334df4415
+      internalID: -48186296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 56
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f2db1ae4fb18458f3731686ed20f3
+      internalID: 301420534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_33
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 56
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb265faa35b2d47bf69ed76ff43bcb
+      internalID: 1326097247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_34
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 43
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa17a631732b914288cbbc712001bf5
+      internalID: 1953119694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_35
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 42
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf49479f7ddf14fb3dcac02e7f1c0d
+      internalID: 869712089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 42
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b867e3db1cb24a9c8957f5f0716ea
+      internalID: -1552675708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 43
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0eef2df3eea544d8d8e0cea94bf634
+      internalID: -620932252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_38
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 43
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd550af3546bf048848752df5fea8db
+      internalID: -1768016270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_39
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 43
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2247c42ec525e45a159aa5846be17e
+      internalID: -946185476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_40
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 42
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105535c7a84bb44408ee0dd77920ea2d
+      internalID: -973772408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_41
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be7b6493ba6634ea87b5006737cbe2
+      internalID: 667675856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44208d46f4d40864e8638dc1e68281d5
+      internalID: -1571972909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6a17c97abbc440814e82f341379b4
+      internalID: 1057548360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_44
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e29c90408a55741a42d7690f880271
+      internalID: 541648584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 29
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0700628eb59854a995c0de206b708e
+      internalID: -1787340440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_46
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c2c5460a9fde448b1c3877c27ba97
+      internalID: 976486091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_47
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f786ff861b214595bbd5800a1312c
+      internalID: -1751407912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_48
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891d4fd4b3f38e4a93f7322882425f2
+      internalID: 656515418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_49
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5790d20a7c6584ea5f0108f3500b42
+      internalID: 467760165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_50
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d675293d482348b8d4ec98dc85965
+      internalID: 1401075328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_51
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926bec5a165b5974c8739b749c56a25a
+      internalID: 127868161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_52
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d66507008ebe834ba70f428fccf1587
+      internalID: -1542001349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_53
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ff410113b53f4faefa0f21950a284
+      internalID: 1042182126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_54
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf49def7946490498edaaf79808f178
+      internalID: 1621083531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_55
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 30
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be2a51e73874c439b07e641a5cf7a3
+      internalID: -27425929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff5ee14ea25a3418bcf997824e6b29
+      internalID: 576133754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_57
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dda5b6954043843860752dded68a1d
+      internalID: -470574439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_58
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa7914f2e4b66418a70de6bd18a404
+      internalID: -1902945648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_59
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c99a1b00f6f484bb72997a3852576a
+      internalID: 1529871371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_60
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5506fe9213524db4d8cf81c1f6129
+      internalID: -1433356762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_61
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e710eeba8d934884a81c0423629b209d
+      internalID: -262172902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_62
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d6d3a81c13bb4989e7d843ffbbba2
+      internalID: 1983390567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_63
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5d906412d0d74ea00707e11c610a6
+      internalID: -1291929559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_64
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66082776dcacc2b42bfe1b3e4a5ac43c
+      internalID: 1672036885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_65
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765a072809cfebd419c050e9903f7032
+      internalID: -886634193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_66
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd0709d82cf0044ac69400e8bf4054
+      internalID: -757229865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d5ec49a4ab93d4a9dadde5166eb147
+      internalID: -1903396196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_68
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c504759640a0b5542a2e4b7c80aae958
+      internalID: 1728526634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_69
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600b8435ff0da644ad62afd1d2500b6
+      internalID: -379866218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096ae9954b23db46ac4b5c05da19f30
+      internalID: -706609782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9d7f991e7d3442bcc466e55550a7b
+      internalID: 1207821333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf486d77a8acac4da92ada76bd25962
+      internalID: -867560301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_73
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ac8092c0c32443a57511400b3238a
+      internalID: -200628695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2cd183cea18434d800c85ae7bb134e
+      internalID: 115571601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf61f214119a6d438404416aecba0f0
+      internalID: 1360685092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_76
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feac67a95efc7743890418af773b7cb
+      internalID: 1683764692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_77
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807629b3b426eb4487789085d443572
+      internalID: -343702517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615633db82716843b5358ae0611e5d0
+      internalID: 1292246346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337c9bbb7dd01a47971fd124c1f9c8e
+      internalID: 755964407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_80
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d63746464f5cf4b8c7663359200f55
+      internalID: -1507712002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_81
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0100085d12e2ba4fae773fb9f470949
+      internalID: -163677396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a5c3e4376b495429cd9a349bebf414
+      internalID: 1594315154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_83
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb58a63d7c6b545a30792929b1be56
+      internalID: -200117794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc2ecc6c84af4f419b3941e6339d1d3
+      internalID: -1572388421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9258f011b26d644aaebd82af37399b
+      internalID: -388525191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75a99fc1138baa418bdcf5f66b6c329
+      internalID: -124584856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_87
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a579c5fc2478743820db0f0f656105
+      internalID: -1232192466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ada303c8a82434a8003effbf9b65f5
+      internalID: 969424261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_89
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b55ac2ba5a0d4692233ab294004fa
+      internalID: 539252369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_90
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970ad3b687589243ab5a2c08b9fa839
+      internalID: -1464369823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_91
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb1dee71762c834e83cea12da19eeaf
+      internalID: 8852554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_92
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58126bbcb6ca8074fad1685dd0df6829
+      internalID: -1335350620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_93
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 4
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990748fad8070b40818c2c51e5d865f
+      internalID: 209450902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_94
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2d0e2dfb822c4db87d96da92c044b
+      internalID: 1778254373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87597afcb10ff34ba7f95e771647e80
+      internalID: 2138962031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_96
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b902413bb7323b40bbd8336008443f4
+      internalID: -1505792228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_97
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8570cef79d3e241b8bd092c70713a9
+      internalID: -1109330663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_98
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38259a5f9763254aa9d1570163853a8
+      internalID: -415641178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_99
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646ac896a2ea014da4879e24953af1e
+      internalID: 147254739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_100
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c96e19bded404f9d790825ab1b79f
+      internalID: 289923630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_101
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f3bf2a6f3c4424182f07cde735207a
+      internalID: -1944024831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_102
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516db3edf27e204194ff843ad1bc5c4
+      internalID: 1631275594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_103
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b773e9a61055840a82747f0c27e0c3
+      internalID: -1028545880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_104
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab51fd769b0ac2e4b92f30bba0b7e2d4
+      internalID: -431794098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_105
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df12b1867079f874e863bf1b851ba356
+      internalID: -638649872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_106
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafd63de2fc2d546a0fa81d9d1c00b3
+      internalID: 2083840047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_107
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2d5770a54ca04c8d9a2903972740f
+      internalID: -1492600476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_108
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8849ac0c156a9a4cb625383fb099fe9
+      internalID: 653774265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_109
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2778748d46151ab46aefa1c86b010590
+      internalID: 1093732870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_110
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f602dca0157b0408fda5acad4808e3
+      internalID: -1300463970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_111
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d31740e3ab86a343a07ed790321f4f4
+      internalID: -700008615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_112
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a612b88f73e1934b8fb4efdfd412ce8
+      internalID: 1562684683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_113
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c42867f504ee41ac7670c9644b4ee
+      internalID: 1293274961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_114
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fdede7ab7bdb549a8b8c41468ed846
+      internalID: -895296038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d0feb4d69a31442b832174e142244f
+      internalID: -292409918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_116
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3a4ee9b4c2224dac0c14d1e533ab8
+      internalID: 356239191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_117
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac274ccedca96c448fcfca78035b60e
+      internalID: 1414155327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_118
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479302428d4dfe54f8464e6106540ab5
+      internalID: -1017265849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_119
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef1e2104169674c96ab66215822b5b
+      internalID: -1680412655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_120
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d49584fa74f4240828f14013a4a34a
+      internalID: 1304696263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_121
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf8e106fb73324094ce5210925f627
+      internalID: -321206143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_122
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9641083fa82a34cb24931d6f6a0118
+      internalID: 1938765936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_123
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d02b5b311953a4ba46b0ed588060d8
+      internalID: 2000882775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_124
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48102de20749d9842b4f6cac01410ebf
+      internalID: -2134868834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_125
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb56e0a75de594d9084762f9a108d7
+      internalID: 1926509009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_126
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb8fc4090af8346ae3b1369decdc85
+      internalID: -1828454391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_127
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73783da181b8a744b05403084c99fcf
+      internalID: 1226265457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_128
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b4aabddb6c14429a87f84a874d20e
+      internalID: 1916670974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_129
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455fce1b9dbb66c4bac1776d114fab8a
+      internalID: -688597829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_130
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9386b3f8152a14b986c97fa97e1e29
+      internalID: 451374723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_131
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6589d32b613534799f2b04a3baec68
+      internalID: -1854639290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rio de janeiro_132
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a6d4c260fe6a45ad4ff0712e8ae12
+      internalID: 1025651482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rio de janeiro_48: 656515418
+      rio de janeiro_60: -1433356762
+      rio de janeiro_102: 1631275594
+      rio de janeiro_80: -1507712002
+      rio de janeiro_66: -757229865
+      rio de janeiro_63: -1291929559
+      rio de janeiro_72: -867560301
+      rio de janeiro_103: -1028545880
+      rio de janeiro_56: 576133754
+      rio de janeiro_74: 115571601
+      rio de janeiro_69: -379866218
+      rio de janeiro_109: 1093732870
+      rio de janeiro_44: 541648584
+      rio de janeiro_29: -684622001
+      rio de janeiro_131: -1854639290
+      rio de janeiro_76: 1683764692
+      rio de janeiro_126: -1828454391
+      rio de janeiro_11: 820085065
+      rio de janeiro_27: 1200463644
+      rio de janeiro_42: -1571972909
+      rio de janeiro_39: -946185476
+      rio de janeiro_85: -388525191
+      rio de janeiro_107: -1492600476
+      rio de janeiro_91: 8852554
+      rio de janeiro_118: -1017265849
+      rio de janeiro_9: -1207579183
+      rio de janeiro_110: -1300463970
+      rio de janeiro_113: 1293274961
+      rio de janeiro_50: 1401075328
+      rio de janeiro_3: 427530914
+      rio de janeiro_40: -973772408
+      rio de janeiro_21: -1147291361
+      rio de janeiro_49: 467760165
+      rio de janeiro_18: 2093478138
+      rio de janeiro_41: 667675856
+      rio de janeiro_1: 438596610
+      rio de janeiro_4: -1395299793
+      rio de janeiro_12: 1810351215
+      rio de janeiro_129: -688597829
+      rio de janeiro_47: -1751407912
+      rio de janeiro_17: -29513492
+      rio de janeiro_37: -620932252
+      rio de janeiro_13: -640500221
+      rio de janeiro_36: -1552675708
+      rio de janeiro_57: -470574439
+      rio de janeiro_96: -1505792228
+      rio de janeiro_0: 925300986
+      rio de janeiro_116: 356239191
+      rio de janeiro_127: 1226265457
+      rio de janeiro_6: -750763614
+      rio de janeiro_26: 1269590307
+      rio de janeiro_51: 127868161
+      rio de janeiro_58: -1902945648
+      rio de janeiro_115: -292409918
+      rio de janeiro_106: 2083840047
+      rio de janeiro_62: 1983390567
+      rio de janeiro_94: 1778254373
+      rio de janeiro_101: -1944024831
+      rio de janeiro_95: 2138962031
+      rio de janeiro_122: 1938765936
+      rio de janeiro_20: 1948430585
+      rio de janeiro_79: 755964407
+      rio de janeiro_31: -48186296
+      rio de janeiro_77: -343702517
+      rio de janeiro_132: 1025651482
+      rio de janeiro_130: 451374723
+      rio de janeiro_24: 65096028
+      rio de janeiro_93: 209450902
+      rio de janeiro_99: 147254739
+      rio de janeiro_88: 969424261
+      rio de janeiro_8: -1093139222
+      rio de janeiro_128: 1916670974
+      rio de janeiro_53: 1042182126
+      rio de janeiro_46: 976486091
+      rio de janeiro_15: -1234524011
+      rio de janeiro_35: 869712089
+      rio de janeiro_121: -321206143
+      rio de janeiro_68: 1728526634
+      rio de janeiro_81: -163677396
+      rio de janeiro_84: -1572388421
+      rio de janeiro_112: 1562684683
+      rio de janeiro_32: 301420534
+      rio de janeiro_100: 289923630
+      rio de janeiro_123: 2000882775
+      rio de janeiro_30: -224845343
+      rio de janeiro_7: -1083304806
+      rio de janeiro_83: -200117794
+      rio de janeiro_108: 653774265
+      rio de janeiro_92: -1335350620
+      rio de janeiro_87: -1232192466
+      rio de janeiro_5: -856251458
+      rio de janeiro_59: 1529871371
+      rio de janeiro_65: -886634193
+      rio de janeiro_16: 2101431
+      rio de janeiro_33: 1326097247
+      rio de janeiro_34: 1953119694
+      rio de janeiro_86: -124584856
+      rio de janeiro_64: 1672036885
+      rio de janeiro_73: -200628695
+      rio de janeiro_82: 1594315154
+      rio de janeiro_111: -700008615
+      rio de janeiro_98: -415641178
+      rio de janeiro_75: 1360685092
+      rio de janeiro_97: -1109330663
+      rio de janeiro_55: -27425929
+      rio de janeiro_19: 2083499534
+      rio de janeiro_114: -895296038
+      rio de janeiro_14: 1724383473
+      rio de janeiro_10: -2139692388
+      rio de janeiro_61: -262172902
+      rio de janeiro_71: 1207821333
+      rio de janeiro_89: 539252369
+      rio de janeiro_70: -706609782
+      rio de janeiro_45: -1787340440
+      rio de janeiro_90: -1464369823
+      rio de janeiro_52: -1542001349
+      rio de janeiro_43: 1057548360
+      rio de janeiro_119: -1680412655
+      rio de janeiro_125: 1926509009
+      rio de janeiro_38: -1768016270
+      rio de janeiro_117: 1414155327
+      rio de janeiro_25: 1461429183
+      rio de janeiro_23: -1328615586
+      rio de janeiro_28: 824258042
+      rio de janeiro_78: 1292246346
+      rio de janeiro_105: -638649872
+      rio de janeiro_104: -431794098
+      rio de janeiro_120: 1304696263
+      rio de janeiro_124: -2134868834
+      rio de janeiro_54: 1621083531
+      rio de janeiro_2: 603070021
+      rio de janeiro_22: -1348343398
+      rio de janeiro_67: -1903396196
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
